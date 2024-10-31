@@ -9,6 +9,7 @@ enabled = true # false
 # name = "./.../../icon_path"
 [technologies]
 # python = "./config/assets/icons/python.svg"
+technology = "https://skillicons.dev/icons?i=figma,html,css,javascript,bootstrap,react,astro,python,django,mysql,postman,git,github,vscode"
 python = "https://skillicons.dev/icons?i=python"
 flutter = "./config/assets/icons/flutter.svg"
 git = "./config/assets/icons/git.svg"
