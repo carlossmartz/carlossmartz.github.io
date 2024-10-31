@@ -8,7 +8,8 @@ enabled = true # false
 # Technology I have worked with
 # name = "./.../../icon_path"
 [technologies]
-python = "./config/assets/icons/python.svg"
+# python = "./config/assets/icons/python.svg"
+python = "https://skillicons.dev/icons?i=python"
 flutter = "./config/assets/icons/flutter.svg"
 git = "./config/assets/icons/git.svg"
 figma = "./config/assets/icons/figma.svg"
